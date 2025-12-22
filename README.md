@@ -10,17 +10,17 @@ To extract meaningful insights from historical business data to support decision
 
 1. **Sales Analysis**
    ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/mavend_page-0001.jpg )
-3. **Order Overview**
+2. **Order Overview**
+     ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/mavend_page-0002.jpg )
+3. **Profit Analysis**
    
-4. **Profit Analysis**
-   
-
-5. **Return Analysis**
-   
-6. **Customer Insights**
-   
-7. **Store Performance**
-   
+  ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/mavend_page-0003.jpg )
+4. **Return Analysis**
+     ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/mavend_page-0004.jpg )
+5. **Customer Insights**
+     ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/mavend_page-0005.jpg )
+6. **Store Performance**
+     ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/mavend_page-0006.jpg )
 ## Key Features
 
 - Clean and structured data model
