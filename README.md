@@ -9,17 +9,17 @@ To extract meaningful insights from historical business data to support decision
 ## Topics Covered
 
 1. **Sales Analysis**
-  
-2. **Order Overview**
+   ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/mavend_page-0001.jpg )
+3. **Order Overview**
    
-3. **Profit Analysis**
+4. **Profit Analysis**
    
 
-4. **Return Analysis**
+5. **Return Analysis**
    
-5. **Customer Insights**
+6. **Customer Insights**
    
-6. **Store Performance**
+7. **Store Performance**
    
 ## Key Features
 
