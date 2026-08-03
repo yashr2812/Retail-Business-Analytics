@@ -1,4 +1,4 @@
-# Maven Market Analysis – Power BI Project
+# Retail Business Analytics – Power BI Project
 
 This project is a comprehensive analysis of Maven Market data using Power BI. It covers multiple business areas including sales, orders, profits, returns, customers, and store performance. The data spans from 1997 to 1998 and is visualized using interactive and insightful dashboards.
 
@@ -11,16 +11,16 @@ To extract meaningful insights from historical business data to support decision
 1. **Sales Analysis**
    ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/images/mavend_page-0001.jpg )
 2. **Order Overview**
-     ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/mavend_page-0002.jpg )
+     ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/images/mavend_page-0002.jpg )
 3. **Profit Analysis**
    
-  ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/mavend_page-0003.jpg )
+  ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/images/mavend_page-0003.jpg )
 4. **Return Analysis**
-     ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/mavend_page-0004.jpg )
+     ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/images/mavend_page-0004.jpg )
 5. **Customer Insights**
-     ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/mavend_page-0005.jpg )
+     ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/images/mavend_page-0005.jpg )
 6. **Store Performance**
-     ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/mavend_page-0006.jpg )
+     ![](https://github.com/yashr2812/Maven-Market-Analysis/blob/main/images/mavend_page-0006.jpg )
 ## Key Features
 
 - Clean and structured data model
